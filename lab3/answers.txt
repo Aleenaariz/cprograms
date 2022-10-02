@@ -1,0 +1,10 @@
+sort1 uses: Bubble Sort
+How do you know?: Because it is taking most time in reversed order and least time in sorted order.
+
+sort2 uses: Merge Sort
+
+How do you know?: Because it is faster than other two types of sort and taking equal time in random, reverse and sorted order.
+
+sort3 uses: Selection Sort
+
+How do you know?: Because it is taking equal time in random, reverse and sorted order bt it is slower than second sort.
